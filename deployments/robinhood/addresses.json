@@ -1,0 +1,10 @@
+{
+  "network": "robinhood",
+  "chainId": 4663,
+  "AlloyLaunchpad": "0x927750E6EebAD299EFDb88f37F830BAD27b0657e",
+  "AlloyKeeper": "0xA3f7d1fC4Bc08d996C2cD77c1F32cc5F8aE9c4b",
+  "AlloyIndex": "0x0E97c9Ba434Ca51a14b3a843Ae6e1b8D26a8A5d8",
+  "deployer": "0x6dA8b4ad0af97c018c8B4b2C5db56FCB05391e69",
+  "deployBlock": 1847293,
+  "deployTimestamp": "2026-07-09T14:22:11Z"
+}
