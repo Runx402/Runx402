@@ -1,0 +1,10 @@
+[
+  {"type":"constructor","inputs":[{"name":"_launchpad","type":"address","internalType":"address"}],"stateMutability":"nonpayable"},
+  {"type":"function","name":"distribute","inputs":[{"name":"coin","type":"address","internalType":"address"}],"outputs":[],"stateMutability":"nonpayable"},
+  {"type":"function","name":"distributeAll","inputs":[],"outputs":[],"stateMutability":"nonpayable"},
+  {"type":"function","name":"getPendingCoins","inputs":[],"outputs":[{"name":"pending","type":"address[]","internalType":"address[]"}],"stateMutability":"view"},
+  {"type":"function","name":"interval","inputs":[],"outputs":[{"name":"","type":"uint256","internalType":"uint256"}],"stateMutability":"view"},
+  {"type":"function","name":"launchpad","inputs":[],"outputs":[{"name":"","type":"address","internalType":"address"}],"stateMutability":"view"},
+  {"type":"function","name":"setInterval","inputs":[{"name":"_interval","type":"uint256","internalType":"uint256"}],"outputs":[],"stateMutability":"nonpayable"},
+  {"type":"event","name":"Distributed","inputs":[{"name":"coin","type":"address","indexed":true,"internalType":"address"},{"name":"amount","type":"uint256","indexed":false,"internalType":"uint256"}],"anonymous":false}
+]
