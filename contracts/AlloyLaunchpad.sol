@@ -333,3 +333,4 @@ contract AlloyLaunchpad is Ownable {
         freeLaunchThreshold = freeThreshold;
     }
 }
+
