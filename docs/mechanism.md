@@ -100,3 +100,4 @@ $$\text{drip}_{\text{daily}} = \text{volume}_{\text{daily}} \times 0.01 \times 0
 and an individual's share is their portion of held supply. Both are estimates: realised drips depend entirely on actual volume and the holder set at distribution time.
 
 
+
